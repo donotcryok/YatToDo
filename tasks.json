@@ -1,0 +1,38 @@
+[
+  {
+    "text": "我要学习SE",
+    "priority": "中",
+    "completed": true,
+    "due_date": "2025-04-12"
+  },
+  {
+    "text": "学习OS",
+    "priority": "高",
+    "completed": false,
+    "due_date": "2025-04-12"
+  },
+  {
+    "text": "学习AI",
+    "priority": "高",
+    "completed": false,
+    "due_date": "2025-04-13"
+  },
+  {
+    "text": "娱乐",
+    "priority": "低",
+    "completed": false,
+    "due_date": "2025-04-08"
+  },
+  {
+    "text": "吃饭",
+    "priority": "中",
+    "completed": false,
+    "due_date": "2025-04-12"
+  },
+  {
+    "text": "睡觉",
+    "priority": "中",
+    "completed": false,
+    "due_date": "2025-04-12"
+  }
+]
